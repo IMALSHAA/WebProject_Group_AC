@@ -18,9 +18,9 @@
         <div class="col-md-4">
           <h5>Contact Us</h5>
           <ul class="list-unstyled">
-            <li><i class="fas fa-map-marker-alt"></i> No 123, Street City, Colombo 07, Sri Lanka</li>
-            <li><i class="fas fa-phone"></i> 011 3008002</li>
-            <li><i class="fas fa-envelope"></i> info@buynjoy.org</li>
+            <li><i class="fas fa-map-marker-alt"></i> 123 Shopping St, Shop City</li>
+            <li><i class="fas fa-phone"></i> +1 (123) 456-7890</li>
+            <li><i class="fas fa-envelope"></i> info@onlineshopping.com</li>
           </ul>
         </div>
       </div>
