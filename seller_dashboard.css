@@ -1,0 +1,42 @@
+
+/* Custom link colors for the squares */
+.colored-square a {
+    color: #ffffff; /* Default link color */
+    text-decoration: none;
+}
+
+.colored-square a:hover {
+    color: #ffffff; /* Hover link color */
+    text-decoration: none;
+}
+
+.container {
+    padding: 50px 0;
+}
+
+.colored-square {
+    height: 150px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.colored-square:hover {
+    transform: scale(1.1);
+}
+
+.square-red { background-color: #f44336; }
+.square-blue { background-color: #2196f3; }
+.square-green { background-color: #4caf50; }
+.square-yellow { background-color: #ffeb3b; }
+.square-orange { background-color: #ff9800; }
+.square-purple { background-color: #9c27b0; }
+.square-cyan { background-color: #00bcd4; }
+.square-pink { background-color: #e91e63; }
